@@ -4,7 +4,7 @@ date:   2016-11-11 20:58:23
 categories: [strategy]
 tags: [strategy]
 ---
-
+The intention of this post is to list all of the initial parameters that i look for in a company, before looking wheather is run problably.
 
 - The size of the market cap must be between  <minimum> & <maximum>
 - The Financial Conditions
