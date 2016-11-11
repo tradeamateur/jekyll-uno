@@ -2,7 +2,7 @@
 title: Enterprise investment
 description: 'A blog about investment based on financial analysis'
 url: 'http://tradeamateur.github.io'
-baseurl: 'http://tradeamateur.github.io'
+baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
