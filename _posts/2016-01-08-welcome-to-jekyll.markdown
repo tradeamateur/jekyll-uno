@@ -1,8 +1,8 @@
 ---
 title:  "Welcome to Amateur Trader!"
 date:   2016-11-11 20:58:23
-categories: [jekyll]
-tags: [jekyll]
+categories: [about]
+tags: [about]
 ---
 The blog is live, Im going to write post about my strategy, my performance, stocks and my thought of it all. If anybody is going to read this please feel free to let me know what you think about it.
 
