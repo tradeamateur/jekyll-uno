@@ -1,8 +1,8 @@
 ---
 title:  "Criterias for my candidate bench"
 date:   2016-11-11 20:58:23
-categories: [jekyll]
-tags: [jekyll]
+categories: [strategy]
+tags: [strategy]
 ---
 
 
