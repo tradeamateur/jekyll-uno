@@ -6,6 +6,8 @@ tags: [strategy]
 ---
 The intention of this post is to list all of the initial parameters that i look for in a company, before looking wheather is run problably.
 
+This post will continously be update to reflect my latest knowledge of how to pick stocks
+
 - The size of the market cap must be between  <minimum> & <maximum>
 - The Financial Conditions
     - P/E < 15
